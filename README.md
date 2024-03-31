@@ -43,4 +43,4 @@ Perangkat ini dibuat untuk memonitor suhu dan kelembapan ruangan, dilengkapi den
 
 **Rangkaian :**
 
-![alt text](Rangkaian Posttest4.jpg)
+![alt text](https://github.com/DH1YA/POSTTEST-4---PRAKTIUM-IOT---UNMUL/blob/main/Rangkaian%20Posttest4.jpg)
